@@ -1,2 +1,2 @@
 # OWD_Projekt
-Projekt dotyczący problemu optymalizacji mieszanej realizowany w ramach przedmiotu PORR na EiTI PW.
+Projekt dotyczący problemu optymalizacji mieszanej realizowany w ramach przedmiotu OWD na EiTI PW.
